@@ -1,2 +1,13 @@
-#header, #footer {background-color: green;}
+#header {
+    background-color: green;
+    font-family: 'Rye', cursive;
+        }
+
+#footer {
+    background-color: green;}
+
 #links {background-color: yellow}
+
+body {
+    background-color:tan;
+        }
