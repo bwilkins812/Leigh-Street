@@ -11,3 +11,29 @@
 body {
     background-color:tan;
         }
+
+a {
+    font-family: monospace;
+    text-decoration: none;
+    font-weight: none;
+    font-size: 20px;
+    margin: 20px;
+}
+
+a:link {
+    color:blue;
+}
+
+a:visited {
+    color:red;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+caption {
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+}
