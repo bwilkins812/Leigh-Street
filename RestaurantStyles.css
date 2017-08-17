@@ -18,6 +18,7 @@ a {
     font-weight: none;
     font-size: 20px;
     margin: 20px;
+    nav: nav-pills;
 }
 
 a:link {
@@ -36,4 +37,8 @@ caption {
     font-size: 20px;
     text-decoration: underline;
     font-weight: bold;
+}
+
+h3{
+    text-align: center;
 }
