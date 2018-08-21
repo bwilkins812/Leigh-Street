@@ -1,6 +1,6 @@
 # SG-Prework-Restaurant-Site
 
-I created a multipage website that uses CSS, Bootstrap, and simple navigation as a part of my Software Guild prework before starting the course.  It also includes a carousel.
+I created a multipage website that uses CSS, Bootstrap, and simple navigation as a part of my Software Guild prework before starting the course.  It also includes a carousel and a 'Contact Us' HTML form.
 
 ____________________________________________________________________________________________________________________
 
